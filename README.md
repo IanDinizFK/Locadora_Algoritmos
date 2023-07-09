@@ -12,7 +12,7 @@ ao executar alguma compra, o programa registra a venda com o nome do usuário e 
 
 ### Gerente
 O gerente tem sua área específica, que ao tentar acessar, o programa gera automáticamente um token aléatorio (UUID), e envia para o email registrado dentro do código.
-A aba 'Gerente' tem diversas funções, como o cadastro de novos produtos, como também consegue verificar o histórico de compras.
+A aba 'Gerente' tem diversas funções, como: cadastro de novos produtos, acesso ao histórico de vendas e estoque. 
 
 * A API utilizada para envio de emails não está funcionando na presente data deste commit.
   
