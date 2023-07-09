@@ -18,5 +18,9 @@ A aba 'Gerente' tem diversas funções, como o cadastro de novos produtos, como 
   
 ## Pandas DB
 
+O pandas é uma biblioteca amplamente utilizada em Python para manipulação e análise de dados. Ela fornece estruturas de dados e funções para trabalhar de forma eficiente com dados estruturados, como tabelas ou arquivos CSV.
+O pandas permite ler, escrever e manipular dados em diversos formatos, realizar limpeza e transformação de dados, lidar com valores ausentes, filtrar e ordenar dados, e realizar cálculos estatísticos.
+
+- Pandas foi utilizado como banco de dados no projeto e se mostrou bastante efetivo, porém nada seguro por utilizar Planilhas e arquivos CSV.
 
 
