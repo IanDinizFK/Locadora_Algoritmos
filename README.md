@@ -2,6 +2,10 @@
 Este é um projeto que foi elaborado em Dezembro de 2022, para finalizar a disciplina de Algoritmos.
 O projeto é um simples controlador de estoque, onde há duas funcionalidades (Comprador e Gerente)
 
+* Python
+* TKInter (Interface)
+* PandasDB (Banco de Dados)
+
 ### Comprador (Cliente)
 O comprador consegue acessar a área de produtos, onde há uma simples interface que mostra o produto e o preço, 
 ao executar alguma compra, o programa registra a venda com o nome do usuário e o horário no histórico de compras e debita no estoque.
