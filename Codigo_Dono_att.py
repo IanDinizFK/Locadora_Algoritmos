@@ -41,7 +41,7 @@ def enviar_email():
     msg['Subject'] = "NOVO TOKEN GERADO"
     msg['From'] = 'ianfk2019@gmail.com'
     msg['To'] = email_send
-    password = 'Teste123abc'
+    password = 'Digite a senha do email aqui para a API conseguir enviar emails automaticos'
     msg.add_header('Content-Type', 'text/html')
     msg.set_payload(corpo_email)
     s = smtplib.SMTP('smtp.gmail.com: 587')
