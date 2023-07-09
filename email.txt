@@ -1,1 +1,3 @@
-testeprojetoestoque@gmail.com
+'Digite seu email aqui para que o código leia o arquivo'
+Exemplo
+teste@gmail.com
